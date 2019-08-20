@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860101240700",
+    "firebase_url": "https://hideapp-17dee.firebaseio.com",
+    "project_id": "hideapp-17dee",
+    "storage_bucket": "hideapp-17dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860101240700:android:2c22cd4aafa404cb",
+        "android_client_info": {
+          "package_name": "com.apkglobal.hideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860101240700-ui2b0a65dujp13mbnu2vgdivu9gclfmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apkglobal.hideapp",
+            "certificate_hash": "ab81ec584466dd0611a40a899416bf9280c9a167"
+          }
+        },
+        {
+          "client_id": "860101240700-pm21tq1rhdie68siht9nm1g4n2qk3vke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBspN2v03Ls6SpuMQsNVq6YPKKVBL0MOFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860101240700-pm21tq1rhdie68siht9nm1g4n2qk3vke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
